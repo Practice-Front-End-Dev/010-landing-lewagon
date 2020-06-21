@@ -7,7 +7,6 @@ body {
 	color: #404042;
 	font-size: 18px;
 	margin: 0;
-	width: 100%;
 }
 
 h1, h2, h3 {
@@ -65,8 +64,8 @@ CARDS
 *********************/
 
 .container {
-	width: 900px;
-	margin: 60px auto;
+	width: 90%;
+	margin: 0 auto;
 }
 
 .cards {
@@ -111,7 +110,7 @@ MEDIA QUERIES
 /* One card on mobile*/
 @media (min-width: 300px) {
 	.container {
-		width: 400px;
+		width: 95%;
 	}
 	.cards {
 		grid-template-columns: 1fr;
