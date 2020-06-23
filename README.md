@@ -1,3 +1,3 @@
-# Landing page with some cards
+# Landing page with cards ...
 
 https://practice-web-design.github.io/lp-project-001/
