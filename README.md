@@ -1,3 +1,3 @@
 # Landing page with cards ...
 
-https://practice-web-design.github.io/lp-project-002/
+https://practice-web-dev.github.io/landing-lewagon-cards/
