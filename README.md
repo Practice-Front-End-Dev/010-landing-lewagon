@@ -1,3 +1,3 @@
 # Landing page with cards ...
 
-https://practice-front-end-dev.github.io/landing-lewagon-cards/
+https://practice-front-end-dev.github.io/010-landing-lewagon/
