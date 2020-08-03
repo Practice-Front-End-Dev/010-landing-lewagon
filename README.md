@@ -1,3 +1,3 @@
 ## Landing page with cards ...
 
-https://practice-web-sites.github.io/lp-lewagon/
+https://practice-web-sites.github.io/lewagon-lp/
